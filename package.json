@@ -1,8 +1,8 @@
 {
-  "name": "anigramadurai.github.io",
+  "name": "agr26.github.io",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://anigramadurai.github.io",
+  "homepage": "https://agr26.github.io",
   "dependencies": {
     "cra-template": "1.2.0",
     "lucide-react": "^0.469.0",
